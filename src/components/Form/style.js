@@ -45,6 +45,20 @@ const styles = StyleSheet.create({
     color: 'red',
     fontWeight: 'bold',
     paddingLeft: 20
+  },
+  exhibitonResultImc: {
+    width: '100%',
+    height: '50%',
+    alignItems: 'center'
+  },
+  listImcs: {
+    marginTop: 20
+  },
+  resultImcItem: {
+    fontSize: 15,
+    color: 'red',
+    height: 50,
+    width: '100%'
   }
 })
 

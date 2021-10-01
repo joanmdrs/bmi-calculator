@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   },
   information: {
     fontSize: 18,
-    color: '#FF0043',
+    color: '#585858',
     fontWeight: 'bold'
   },
   boxShareButton: {
